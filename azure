@@ -1,0 +1,2 @@
+The try block contains code that might throw an exception,
+The catch block handles the exception if it occurs.
